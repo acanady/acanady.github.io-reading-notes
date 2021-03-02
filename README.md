@@ -1,2 +1,2 @@
-# acanady.github.io-reading-notes
-Reading notes repository
+This is my github reading notes
+
